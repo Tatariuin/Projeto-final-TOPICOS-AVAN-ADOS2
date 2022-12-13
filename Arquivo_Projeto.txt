@@ -1,7 +1,9 @@
+na pasta com o nome arquivo de texto cada um deve criar um texto com seu nome 
 
-Dhonatas123.
-kdnkdnkndknd
-dkndnikdnikdn
+na pasta com o nome codigo cada um vai contribuir com um pedaco de codigo, iremos fazer um codigo para as operações matematica.
 
-Olá mundo
-
+Dhonatas - multiplicaçao
+Darilma - divisão
+Eneildes - subtração
+Luiza - adição
+Rogerio - potencia
