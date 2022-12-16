@@ -14,6 +14,11 @@ public class Operacoes {
     }
 	public int multiplicacao(int a, int b){
 	  return a*b;
+    } 
+
+     // Mª Luisa
+    public int soma( int numero, numero2){
+        return numero + numero2;
     }
 	   
 }
