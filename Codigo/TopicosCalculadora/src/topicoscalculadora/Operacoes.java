@@ -9,6 +9,9 @@ public class Operacoes {
        }
         return c;
     }
+    public int subtracao(int a,int b){
+        return a-b;
+    }
 
     
 }
