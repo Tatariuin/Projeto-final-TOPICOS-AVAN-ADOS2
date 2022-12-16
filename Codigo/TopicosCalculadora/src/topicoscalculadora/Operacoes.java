@@ -12,6 +12,8 @@ public class Operacoes {
     public int subtracao(int a,int b){
         return a-b;
     }
-
-    
+	public int multiplicacao(int a, int b){
+	  return a*b;
+    }
+	   
 }
