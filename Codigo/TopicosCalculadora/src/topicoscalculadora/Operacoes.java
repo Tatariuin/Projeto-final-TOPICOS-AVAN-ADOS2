@@ -17,8 +17,10 @@ public class Operacoes {
     } 
 
      // Mª Luisa
-    public int soma( int numero, numero2){
+    public int soma( int numero, int numero2){
         return numero + numero2;
     }
-	   
+    public int divisao(int a,int b){
+        return a/b;
+    }
 }
